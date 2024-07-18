@@ -1,0 +1,1 @@
+Just my version of the game rock paper scissors. it's palyed against the computer, in the console. press (ctrl + shift + J) if you're on windows, enjoy
